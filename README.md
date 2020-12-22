@@ -1,3 +1,6 @@
+# About
+> As you know, it really requires a lot of data, especially, accurate data in order to also achieve a successful model at the end of the training process. Considering sometimes data, which is completely custom and really hard to find high quality ones on the internet, this script is going to increase your current data size by a few times with different methods of image manipulation to give you a much more accurate and stable model at the end.
+
 # Data Generator / Extender
 >Based on your current available data, this simple script will go over, and extend your current dataset by using image manipulation methods as following:
 >* Blurred
@@ -6,12 +9,7 @@
 >* Flip (over X, Y, Center)
 >* Bright
 >* Hue
->* More to come.
-
-### About
-> As you know, it really requires a lot of data, especially, accurate data in order also achieve a successful model at the end. Considering sometimes data, which is completely custom and really hard to find high quality ones on the internet, this script is going to increase your current data size by a few times with different methods to give you a much more accurate and stable model at the end.
-
-
+>* More to come...
 
 ### Input Images
 Test input images are as following:
@@ -71,7 +69,8 @@ Hue input images are as following:
 ### Folder Structure
 
 ```
-data_generator
+Generate-Datset
+    │
     └── BlackAndWhite
     │    └── __init__.py
     │
@@ -94,6 +93,9 @@ data_generator
     │   └── __init__.py
     │
     └── main.py
+    │
+    │
+    └── README.md
     │
     └── src 
         └── input
