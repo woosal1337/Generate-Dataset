@@ -113,4 +113,4 @@ data_generator
 > New image manipulation **methods** to increase the data as much as we can and more!
 
 ### Contributors
-<img src="https://i.imgur.com/oW4JaIe.jpg" width="100" height="100">
+<a href="https://www.github.com/woosal1337"><img src="https://i.imgur.com/oW4JaIe.jpg" width="25" height="25"></a>
