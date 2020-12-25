@@ -119,7 +119,12 @@ Generate-Datset
 > New image manipulation **methods** to increase the data as much as we can and more!
 
 ### Article
+
+Medium - 
 https://woosal1337.medium.com/generate-and-extend-your-custom-dataset-script-f44fe3767436
+
+Dev.to -
+https://dev.to/woosal/generate-and-extend-your-custom-dataset-script-3l0l
 
 ### Contributors
 <a href="https://www.github.com/woosal1337"><img src="https://i.imgur.com/oW4JaIe.jpg" width="75" height="75"></a>
